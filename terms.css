@@ -1,0 +1,40 @@
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+
+body{
+  background:  linear-gradient(to right,#023f79,#094480);
+
+
+
+}
+
+
+
+.container{
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 2px solid white;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+
+}
+
+
+
+a{
+    color: rgb(211, 199, 176);
+}
+
+li{
+    color: rgb(211, 199, 176);
+}
+
+h2,h3{
+    color: orange;
+}
